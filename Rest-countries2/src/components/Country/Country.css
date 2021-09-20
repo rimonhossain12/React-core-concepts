@@ -1,0 +1,12 @@
+.div-style {
+    background-color: lightblue;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+
+.div-style img {
+    width: 200px;
+}
